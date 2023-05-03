@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans/GoogleSans-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans/GoogleSans-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans/GoogleSans-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans/GoogleSans-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans/GoogleSans-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans/GoogleSans-MediumItalic.ttf');
+    font-weight: 500;
+    font-style: italic;
+}
+
