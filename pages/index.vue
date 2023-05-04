@@ -1,4 +1,4 @@
 <template>
-  <div class="text-4xl">Hello</div>
+  <CardComp />
 </template>
 <script setup lang="ts"></script>
